@@ -1,0 +1,20 @@
+const ProcessDataDTO = {
+	created: null,
+	createdDate: new Date(),
+	createdName: "",
+	description: "",
+	id: null,
+	isActive: true,
+	isDelete: false,
+	modified: null,
+	modifiedDate: new Date(),
+	modifiedName: "",
+	processDataCode: "",
+	processDataName: "",
+	tennant: null,
+	tennantCode: "",
+	tennantName: "",
+	requestData: null,
+	roundNumber:null,
+};
+export default ProcessDataDTO;

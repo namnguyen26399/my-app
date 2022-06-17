@@ -1,0 +1,21 @@
+const TennantDto = {
+	createdDate: new Date(),
+	createdId: 0,
+	createdName: "",
+	databaseDriverClass: "",
+	databasePassword: "",
+	databaseSchemaName: "",
+	databaseUrl: "",
+	databaseUsermame: "",
+	description: "",
+	filePathFolder: "",
+	id: null,
+	isActive: true,
+	isDelete: false,
+	modifiedDate: new Date(),
+	modifiedId: 0,
+	modifiedName: "",
+	tennantCode: "",
+	tennantName: "",
+};
+export default TennantDto;

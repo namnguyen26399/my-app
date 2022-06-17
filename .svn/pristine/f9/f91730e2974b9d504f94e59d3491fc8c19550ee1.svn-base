@@ -1,0 +1,35 @@
+{
+	"message": {
+		"hello": "Hello"
+	},
+	"title": {
+		"home": "Home",
+		"account": "Account",
+		"menu": "Menu",
+		"processstep": "Process step manager",
+		"List_of_request_group": "List of request group",
+		"List_of_request_types": "List of request types",
+		"used": "Used",
+		"request_group_code": "Request group code",
+		"request_type_code": "Request type code",
+		"request_group_name": "Request group name",
+		"request_type_name": "Request type name",
+		"creater": "Người tạo",
+		"date_create": "Create Date",
+		"manipulation": "Manipulation",
+		"Are_you_sure_you_want_to_delete": "Are you sure you want to delete?",
+		
+		"List_of_process_steps": "List of process step",
+		"description": "Description",
+		"belonging_to_the_request_group": "Belonging to the request group",
+		"Application_process": "Application process",
+		"process":"Process manager"
+	},
+	"button": {
+		"create": "Create",
+		"cancel": "Cancel",
+		"save": "Save",
+		"yes": "Yes",
+		"no": "No"
+	}
+}

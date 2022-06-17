@@ -1,0 +1,21 @@
+const UserInfoDto = {
+	avatar: "",
+	createdDate: new Date(),
+	createdName: "",
+	fullName: "",
+	id: null,
+	idInMicrosoft: "",
+	infoInMicrosoft: "",
+	isActive: true,
+	isDelete: false,
+	modifiedDate: new Date(),
+	modifiedName: "",
+	name: "",
+	organization: null,
+	ranks: [],
+	roles: [],
+	tennant: null,
+	tennantCode: "",
+	tennantName: "",
+};
+export default UserInfoDto;

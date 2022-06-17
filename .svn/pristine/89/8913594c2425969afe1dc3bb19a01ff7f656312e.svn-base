@@ -1,0 +1,22 @@
+const FormDto = {
+	created: null,
+	createdDate: new Date(),
+	createdName: "",
+	description: "",
+	fields: [],
+	formCode: "",
+	formName: "",
+	id: null,
+	isActive: true,
+	isDelete: false,
+	modified: null,
+	modifiedDate: new Date(),
+	modifiedName: "",
+	objectModel: "",
+	objectSchema: "",
+	option: "",
+	tennant: null,
+	tennantCode: "",
+	tennantName: "",
+};
+export default FormDto;

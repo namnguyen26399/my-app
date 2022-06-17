@@ -1,0 +1,22 @@
+const RequestFormDataDto = {
+	id: null,
+	formDataCode: null,
+	formDateName: null,
+	objectSchema: "",
+	objectModel: "",
+	option: "",
+	createdName: "",
+	createdDate: new Date(),
+	modifiedName: "",
+	modifiedDate: new Date(),
+	isActive: true,
+	isDelete: false,
+	tennantCode: "",
+	tennantName: "",
+	requestData: null,
+	form: null,
+	created: null,
+	tennant: null,
+	modified: null,
+};
+export default RequestFormDataDto;

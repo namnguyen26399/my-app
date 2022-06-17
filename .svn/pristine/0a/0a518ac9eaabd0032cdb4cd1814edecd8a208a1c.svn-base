@@ -1,0 +1,22 @@
+const StepProcessDocDto = {
+	content: "",
+	createdDate: new Date(),
+	createdName: "",
+	expireTime: new Date(),
+	id: null,
+	incomingDoc: null,
+	involveUserText: "",
+	isActive: true,
+	isDelete: true,
+	modifiedDate: new Date(),
+	modifiedName: "",
+	order: 0,
+	processerAvatar: "",
+	processerEmail: "",
+	processerName: "",
+	transferAvatar: "",
+	transferEmail: "",
+	transferName: "",
+	transferTime: new Date(),
+};
+export default StepProcessDocDto;
